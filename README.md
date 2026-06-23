@@ -1,6 +1,6 @@
 # Caso-de-Estudio-2---UNIDAD-1-BD
-Pipeline ELT | Limpieza de datos, particionamiento Train/Test y modelos estadísticos para predicción de cancelaciones — Minería de Datos UTEQ
- 
+Pipeline ELT | Limpieza de datos, particionamiento Train/Test y modelos estadísticos para predicción de cancelaciones.
+
 **Equipo:**  IDGS14
 Iván Alejandro Rico Almaraz,
 Aldo Jair García Pacheco,
