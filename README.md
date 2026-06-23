@@ -2,11 +2,11 @@
 Pipeline ELT | Limpieza de datos, particionamiento Train/Test y modelos estadísticos para predicción de cancelaciones — Minería de Datos UTEQ
  
 **Equipo:**  IDGS14
-Iván Alejandro Rico Almaraz 
-Aldo Jair García Pacheco
-Daniel Iván Lucas Molina 
-Eduardo Martínez Duarte
-Carlos Yael Rosales Leyva
+Iván Alejandro Rico Almaraz,
+Aldo Jair García Pacheco,
+Daniel Iván Lucas Molina, 
+Eduardo Martínez Duarte,
+Carlos Yael Rosales Leyva.
 
 ## Contenido del repositorio
 - `CASO_ESTUDIO_2.ipynb` — Notebook con limpieza de datos y modelos estadísticos
