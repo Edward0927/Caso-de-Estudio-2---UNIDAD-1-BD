@@ -14,6 +14,8 @@ Carlos Yael Rosales Leyva.
 - `X_test.csv` — Variables de prueba (20%)
 - `y_train.csv` — Variable objetivo de entrenamiento
 - `y_test.csv` — Variable objetivo de prueba
+- `comparacion_modelos.csv` — Resultados comparativos de los modelos
+- `predicciones_modelos.csv` — Predicciones generadas por ambos modelos
 
 
 ## Dataset original
